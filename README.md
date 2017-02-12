@@ -1,9 +1,8 @@
 # Design & Beers website
 
-This repository is for Design & Beers website: [dbtalks.org](http://dbtalks.org)
+This repository is for Design & Beers Talks' website: [dbtalks.org](http://dbtalks.org)
 
 ![](https://raw.githubusercontent.com/muxumuxu/dbtalks/master/source/images/facebook.jpg)
-
 
 ## How to run run it locally
 
