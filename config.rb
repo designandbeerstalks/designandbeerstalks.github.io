@@ -29,6 +29,6 @@ end
 
 activate :deploy do |deploy|
   deploy.method = :git
-  deploy.remote = 'middelman-deploy'
+  deploy.remote = 'origin'
   deploy.branch = 'master'
 end
